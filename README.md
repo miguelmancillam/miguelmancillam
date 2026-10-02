@@ -1,5 +1,16 @@
 <div align="center">
 
+<img
+  src="./banner.jpg"
+  alt="Miguel Mancilla - Backend, Cloud and APIs"
+  width="100%"
+/>
+
+</div>
+
+<br>
+<div align="center">
+
 # Hola, soy Miguel Mancilla 👋
 
 ### Ingeniero en Informática | Backend Developer | Cloud & Cybersecurity Enthusiast
