@@ -11,7 +11,7 @@
 <br>
 <div align="center">
 
-# Hola, soy Miguel Mancilla 👋
+# Hola 👋
 
 ### Ingeniero en Informática | Backend Developer | Cloud & Cybersecurity Enthusiast
 
