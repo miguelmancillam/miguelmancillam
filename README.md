@@ -2,29 +2,36 @@
 
 <img
   src="./banner.jpg"
-  alt="Miguel Mancilla - Backend, Cloud and APIs"
+  alt="Miguel Mancilla — Backend, Cloud and APIs"
   width="100%"
 />
 
-</div>
+<br><br>
 
-<br>
-<div align="center">
+# Hola, soy Miguel 👋
 
-# Hola 👋
-Construyo APIs, servicios backend y soluciones orientadas a la nube.
-Actualmente estoy fortaleciendo mis conocimientos en arquitectura de software,
-DevOps, ciberseguridad e inteligencia artificial.
+<p>
+  Backend Developer en formación · Cloud · APIs · Ciberseguridad
+</p>
 
-<br>
+<p>
+  Construyo APIs, servicios backend y soluciones orientadas a la nube.
+  Me interesa crear software seguro, mantenible y que resuelva problemas reales.
+</p>
 
 <a href="https://github.com/miguelmancillam">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=850&lines=Backend+Developer;Building+REST+APIs+and+Microservices;Cloud+%7C+DevOps+%7C+Cybersecurity;Always+learning%2C+building+and+improving" alt="Typing animation">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=6F5BD3&center=true&vCenter=true&width=800&lines=Backend+Developer;REST+APIs+%7C+Microservices+%7C+Cloud;DevOps+%7C+Cybersecurity+%7C+AI;Always+learning%2C+building+and+improving"
+    alt="Tecnologías y áreas de interés"
+  >
 </a>
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=miguelmancillamO&style=flat&color=2F81F7&label=profile+views" alt="Profile views">
+<img
+  src="https://komarev.com/ghpvc/?username=miguelmancillam&style=flat&color=6F5BD3&label=profile+views"
+  alt="Profile views"
+/>
 
 </div>
 
@@ -32,198 +39,247 @@ DevOps, ciberseguridad e inteligencia artificial.
 
 ## `$ whoami`
 
-Soy estudiante de Ingeniería en Informática y profesional del área tecnológica,
-con experiencia en monitoreo operacional, gestión de incidentes y desarrollo de
-soluciones backend.
+<table>
+  <tr>
+    <td width="33.33%" valign="top">
 
-Me interesa diseñar sistemas confiables, seguros y fáciles de mantener, aplicando
-buenas prácticas de desarrollo, automatización y despliegue en la nube.
+### 👨‍💻 Perfil
 
-Actualmente estoy enfocado en:
+Estudiante de Ingeniería en Informática y desarrollador enfocado en backend.
 
-- Desarrollo backend y diseño de APIs REST.
-- Arquitectura de microservicios.
-- Cloud computing con Azure y AWS.
-- Docker, Linux, DevOps y automatización.
-- Ciberseguridad aplicada al desarrollo.
-- Inteligencia artificial, RAG y agentes de automatización.
-- Mejoramiento continuo de mi inglés técnico.
+Experiencia en monitoreo operacional, gestión de incidentes y construcción de soluciones internas.
+
+    </td>
+    <td width="33.33%" valign="top">
+
+### 🎯 En qué trabajo
+
+- APIs REST y autenticación
+- Microservicios y arquitectura
+- Bases de datos relacionales
+- Docker y despliegues cloud
+- Dashboards, KPIs y automatización
+
+    </td>
+    <td width="33.33%" valign="top">
+
+### 🌱 Aprendiendo
+
+- Azure y AWS
+- Linux, DevOps y Kubernetes
+- Ciberseguridad aplicada
+- IA, RAG y agentes
+- Inglés técnico
+
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ```text
-Miguel Mancilla
-├── Backend Developer
-├── Cloud & DevOps Learner
-├── Cybersecurity Enthusiast
-├── Informatics Engineering Student
-└── Santiago, Chile
+miguelmancillam@github:~$ profile --summary
+
+role:     Backend Developer
+location: Santiago, Chile 🇨🇱
+focus:    APIs · Cloud · DevOps · Cybersecurity
+mindset:  Learn → Build → Test → Improve
 ```
 
 ---
 
 ## `$ cat tech-stack.yaml`
 
-<div align="center">
-
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33.33%" valign="top" align="center">
 
-### Backend & APIs
+### ⚙️ Backend & APIs
 
-<img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,nestjs,python,django" alt="Backend technologies">
+<img
+  src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,nestjs,python,django"
+  alt="Node.js, TypeScript, JavaScript, NestJS, Python y Django"
+/>
 
-<br>
+<br><br>
 
-`Node.js` · `TypeScript` · `JavaScript`  
+`Node.js` · `TypeScript`  
 `NestJS` · `Python` · `Django`  
-`REST APIs` · `JWT` · `Authentication`
+`REST APIs` · `JWT` · `Auth`
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33.33%" valign="top" align="center">
 
-### Databases
+### 🗄️ Data & Persistence
 
-<img src="https://skillicons.dev/icons?i=postgres,prisma,mysql,mongodb" alt="Database technologies">
+<img
+  src="https://skillicons.dev/icons?i=postgres,prisma,mysql,mongodb"
+  alt="PostgreSQL, Prisma, MySQL y MongoDB"
+/>
 
-<br>
+<br><br>
 
-`PostgreSQL` · `Prisma` · `MySQL`  
-`MongoDB` · `Database design`  
-`Queries` · `Migrations` · `Data modeling`
-
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-
-### Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=azure,aws,docker,linux,githubactions,cloudflare" alt="Cloud and DevOps technologies">
-
-<br>
-
-`Microsoft Azure` · `AWS`  
-`Docker` · `Linux` · `GitHub Actions`  
-`Cloudflare Pages` · `CI/CD fundamentals`
+`PostgreSQL` · `Prisma`  
+`MySQL` · `MongoDB`  
+`Migrations` · `Data modeling`
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33.33%" valign="top" align="center">
 
-### Tools & Workflow
+### ☁️ Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,bash" alt="Development tools">
+<img
+  src="https://skillicons.dev/icons?i=azure,aws,docker,linux,githubactions,cloudflare"
+  alt="Azure, AWS, Docker, Linux, GitHub Actions y Cloudflare"
+/>
 
-<br>
+<br><br>
 
-`Git` · `GitHub` · `Postman`  
-`VS Code` · `Bash` · `API testing`  
-`Agile workflow` · `Incident management`
+`Azure` · `AWS` · `Docker`  
+`Linux` · `GitHub Actions`  
+`Cloudflare` · `CI/CD`
 
     </td>
   </tr>
 </table>
 
+<br>
+
+<div align="center">
+
+### Herramientas de trabajo
+
+<img
+  src="https://skillicons.dev/icons?i=git,github,postman,vscode,bash"
+  alt="Git, GitHub, Postman, VS Code y Bash"
+/>
+
+<br>
+
+`Git` · `GitHub` · `Postman` · `VS Code` · `Bash`
+
 </div>
 
 ---
 
-## `$ systemctl status skills`
+## `$ systemctl status learning`
+
+<table>
+  <tr>
+    <td width="33.33%" valign="top">
+
+### 🟢 Backend
 
 ```text
-● backend-development.service
-  ├─ status: active
-  ├─ focus: APIs, authentication, microservices
-  └─ stack: Node.js, NestJS, Django, PostgreSQL
-
-● cloud-learning.service
-  ├─ status: in-progress
-  ├─ focus: Azure, AWS, deployment and infrastructure
-  └─ goal: strengthen cloud architecture fundamentals
-
-● cybersecurity.service
-  ├─ status: learning
-  ├─ focus: secure development, authentication and systems
-  └─ goal: apply security throughout the development lifecycle
-
-● artificial-intelligence.service
-  ├─ status: exploring
-  ├─ focus: RAG, automation agents and ML fundamentals
-  └─ goal: build practical AI-powered solutions
-
-● english-learning.service
-  ├─ status: active
-  ├─ focus: technical vocabulary and communication
-  └─ goal: communicate confidently in international environments
+status: active
+focus: APIs, auth,
+microservices
 ```
+
+    </td>
+    <td width="33.33%" valign="top">
+
+### 🟡 Cloud & DevOps
+
+```text
+status: in-progress
+focus: Azure, AWS,
+Docker and CI/CD
+```
+
+    </td>
+    <td width="33.33%" valign="top">
+
+### 🟣 Security & AI
+
+```text
+status: learning
+focus: security,
+RAG and automation
+```
+
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## `$ ls ~/featured-projects`
 
-### Backend APIs and microservices
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-Diseño y desarrollo de servicios backend utilizando Node.js, NestJS,
-TypeScript, Prisma y PostgreSQL.
+### 🔐 APIs y microservicios
 
-Algunos conceptos trabajados:
+Servicios backend desarrollados con Node.js, NestJS, TypeScript, Prisma y PostgreSQL.
 
-- Autenticación y autorización con JWT.
-- Refresh tokens y manejo de sesiones.
-- Validación de datos.
-- Arquitectura modular.
-- Manejo de errores.
-- Documentación y pruebas de APIs.
-- Persistencia de datos con PostgreSQL y Prisma.
+- JWT, refresh tokens y sesiones
+- Validación y manejo de errores
+- Arquitectura modular
+- APIs REST y pruebas con Postman
+- Persistencia y migraciones
 
-### Ticket-management systems
+    </td>
+    <td width="50%" valign="top">
 
-Desarrollo de soluciones orientadas a la gestión y seguimiento de tickets,
-incidentes y actividades operacionales.
+### 🎫 Gestión de tickets
 
-El objetivo es centralizar información, mejorar la trazabilidad y facilitar
-el monitoreo de los procesos.
+Soluciones para registrar, organizar y hacer seguimiento de tickets, incidentes y actividades operacionales.
 
-### Dashboards y KPIs
+Enfocado en mejorar la trazabilidad, centralizar información y apoyar el monitoreo de procesos.
 
-Construcción de dashboards con Django, APIs REST y visualizaciones en JavaScript
-para consultar indicadores y facilitar la toma de decisiones.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-### Cloud deployment experiments
+### 📊 Dashboards y KPIs
 
-Prácticas de despliegue y publicación de aplicaciones utilizando:
+Dashboards con Django, APIs REST y JavaScript para visualizar indicadores y facilitar la toma de decisiones.
 
-- Microsoft Azure.
-- AWS.
-- Cloudflare Pages.
-- Docker.
-- GitHub Actions.
+    </td>
+    <td width="50%" valign="top">
+
+### 🚀 Despliegues cloud
+
+Prácticas de despliegue y publicación con Azure, AWS, Docker, Cloudflare Pages y fundamentos de CI/CD.
+
+    </td>
+  </tr>
+</table>
 
 ---
+
 ## `$ connect --socials`
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mancillamiguel">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  >
 </a>
-
+&nbsp;
 <a href="mailto:contacto.m.empleos@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img
+    src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  >
 </a>
-
+&nbsp;
 <a href="https://github.com/miguelmancillam">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  >
 </a>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-### Siempre aprendiendo, construyendo y mejorando 🚀
-
-Hecho con código, curiosidad y muchas horas de práctica desde Santiago, Chile 🇨🇱
+<sub>
+  Hecho con código, curiosidad y muchas horas de práctica desde Santiago, Chile 🇨🇱
+</sub>
 
 </div>
