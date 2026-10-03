@@ -2,11 +2,6 @@
   <img src="./banner.jpg" alt="Miguel Mancilla — Backend, Cloud and APIs" width="100%" />
   <br /><br />
   <h1>Hola, soy Miguel 👋</h1>
-  <p><strong>Backend Developer</strong> · Cloud · APIs · Ciberseguridad</p>
-  <p>
-    Construyo APIs, servicios backend y soluciones orientadas a la nube.<br />
-    Me interesa crear software seguro, mantenible y que resuelva problemas reales.
-  </p>
   <a href="https://github.com/miguelmancillam">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=6F5BD3&center=true&vCenter=true&width=800&lines=Backend+Developer;REST+APIs+%7C+Microservices+%7C+Cloud;DevOps+%7C+Cybersecurity+%7C+AI;Always+learning%2C+building+and+improving" alt="Áreas de especialización" />
   </a>
