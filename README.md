@@ -12,9 +12,6 @@
 <div align="center">
 
 # Hola 👋
-
-### Ingeniero en Informática | Backend Developer | Cloud & Cybersecurity Enthusiast
-
 Construyo APIs, servicios backend y soluciones orientadas a la nube.
 Actualmente estoy fortaleciendo mis conocimientos en arquitectura de software,
 DevOps, ciberseguridad e inteligencia artificial.
