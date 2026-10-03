@@ -200,22 +200,6 @@ Prácticas de despliegue y publicación de aplicaciones utilizando:
 - GitHub Actions.
 
 ---
-
-## `$ git log --oneline learning`
-
-```text
-2026  Improving backend architecture and production practices
-2026  Studying Microsoft Azure fundamentals
-2026  Learning Linux, Docker and DevOps
-2026  Exploring Kubernetes and cloud deployment
-2026  Studying cybersecurity and secure development
-2026  Building machine-learning foundations
-2026  Exploring RAG and AI automation agents
-2026  Practicing technical English
-```
-
----
-
 ## `$ connect --socials`
 
 <div align="center">
