@@ -90,11 +90,13 @@ mindset:  Learn → Build → Test → Improve
 
 ## `$ cat tech-stack.yaml`
 
+<h2><code>$ cat tech-stack.yaml</code></h2>
+
 <table>
   <tr>
-    <td width="33.33%" valign="top" align="center">
+    <td width="33%" valign="top" align="center">
 
-### ⚙️ Backend & APIs
+<h3>⚙️ Backend & APIs</h3>
 
 <img
   src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,nestjs,python,django"
@@ -103,14 +105,15 @@ mindset:  Learn → Build → Test → Improve
 
 <br><br>
 
-`Node.js` · `TypeScript`  
-`NestJS` · `Python` · `Django`  
-`REST APIs` · `JWT` · `Auth`
+<code>Node.js</code> · <code>TypeScript</code><br>
+<code>NestJS</code> · <code>Python</code> · <code>Django</code><br>
+<code>REST APIs</code> · <code>JWT</code> · <code>Auth</code>
 
     </td>
-    <td width="33.33%" valign="top" align="center">
 
-### 🗄️ Data & Persistence
+    <td width="33%" valign="top" align="center">
+
+<h3>🗄️ Data & Persistence</h3>
 
 <img
   src="https://skillicons.dev/icons?i=postgres,prisma,mysql,mongodb"
@@ -119,14 +122,15 @@ mindset:  Learn → Build → Test → Improve
 
 <br><br>
 
-`PostgreSQL` · `Prisma`  
-`MySQL` · `MongoDB`  
-`Migrations` · `Data modeling`
+<code>PostgreSQL</code> · <code>Prisma</code><br>
+<code>MySQL</code> · <code>MongoDB</code><br>
+<code>Migrations</code> · <code>Data modeling</code>
 
     </td>
-    <td width="33.33%" valign="top" align="center">
 
-### ☁️ Cloud & DevOps
+    <td width="33%" valign="top" align="center">
+
+<h3>☁️ Cloud & DevOps</h3>
 
 <img
   src="https://skillicons.dev/icons?i=azure,aws,docker,linux,githubactions,cloudflare"
@@ -135,9 +139,9 @@ mindset:  Learn → Build → Test → Improve
 
 <br><br>
 
-`Azure` · `AWS` · `Docker`  
-`Linux` · `GitHub Actions`  
-`Cloudflare` · `CI/CD`
+<code>Azure</code> · <code>AWS</code> · <code>Docker</code><br>
+<code>Linux</code> · <code>GitHub Actions</code><br>
+<code>Cloudflare</code> · <code>CI/CD</code>
 
     </td>
   </tr>
@@ -147,19 +151,18 @@ mindset:  Learn → Build → Test → Improve
 
 <div align="center">
 
-### Herramientas de trabajo
+<h3>🧰 Herramientas de trabajo</h3>
 
 <img
   src="https://skillicons.dev/icons?i=git,github,postman,vscode,bash"
   alt="Git, GitHub, Postman, VS Code y Bash"
 />
 
-<br>
+<br><br>
 
-`Git` · `GitHub` · `Postman` · `VS Code` · `Bash`
+<code>Git</code> · <code>GitHub</code> · <code>Postman</code> · <code>VS Code</code> · <code>Bash</code>
 
 </div>
-
 ---
 
 ## `$ systemctl status learning`
